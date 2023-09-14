@@ -1,10 +1,10 @@
 Hola 👋🏻, bienvenido a mi perfil profesional
 
-Soy programador full stack con experiencia en la industria de eCommerce , consultoría. Me especializo en tecnologías con lenguajes como PHP,JavaScript.
+Soy programador full stack con experiencia en la industria de eCommerce , consultoría. Me especializo en tecnologías React Native y Firebase.
 
     Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y negocios.
 
-Tengo conocimientos en diseño de interfaces, experiencia de usuarios, Adobe Photoshop, identidad corporativa y Marketing digital.
+Tengo conocimientos en diseño de interfaces, base de datos, experiencia de usuarios, Adobe Photoshop, identidad corporativa y Marketing digital.
 
 <!--
 Me dedico a desarrollar software
